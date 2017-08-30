@@ -4,9 +4,4 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/Cellar/php55/5.5.38_11/bin/php" id="d2f5f636-6a92-4efc-9600-e6b063fb4760" name="PHP" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
 </application>
