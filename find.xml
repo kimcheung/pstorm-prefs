@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*onecms-*.php" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,7 +16,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*onec.php</mask>
       <mask>*onecms.php</mask>
       <mask>*onecms-.php</mask>
@@ -25,6 +24,7 @@
       <mask>*onecms-*tes.php</mask>
       <mask>*onecms-*t.php</mask>
       <mask>*onecms-*.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
