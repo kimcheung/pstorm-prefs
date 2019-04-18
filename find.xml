@@ -7,8 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -24,6 +22,20 @@
       <mask>*onecms-*tes.php</mask>
       <mask>*onecms-*t.php</mask>
       <mask>*onecms-*.php</mask>
+      <mask>*/.php</mask>
+      <mask>*/a.php</mask>
+      <mask>*/ap.php</mask>
+      <mask>*/app.php</mask>
+      <mask>*/app/.php</mask>
+      <mask>*/app/a.php</mask>
+      <mask>*/app/ad.php</mask>
+      <mask>*/app/adm.php</mask>
+      <mask>*/app/admi.php</mask>
+      <mask>*/app/admin.php</mask>
+      <mask>*/app/admin/.php</mask>
+      <mask>/app/admin/*.php</mask>
+      <mask>*/app/admin/*.php</mask>
+      <mask>.php</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
